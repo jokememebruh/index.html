@@ -1,8 +1,17 @@
 .icon {
-    height: 250px;
-    width: 200px;
+    width: 150px;
 }
 * {
     margin: 0px;
     padding: 0px;
+}
+header {
+    background-color: #014171;
+}
+h1 {
+    text-align: center;
+    color: darkorange;
+}
+.tistechko {
+    width: 250px;
 }
